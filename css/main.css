@@ -48,7 +48,7 @@ nav{
     margin-top:-50px;
 }
 .law-caption{
-    margin-top:190px;
+    margin-top:200px;
 }
 /*coding for computer main section ended here*/
 /*coding for practice section start here*/
@@ -75,15 +75,15 @@ nav{
     height:150px;
     background-size:100px;
     background-position-x:center;
-    background-position-y:center;
+    background-position-y:50px;
     background-color:#030b3a !important;
 }
 .sm-main-caption{
-    margin-top:-25px !important;
+    margin-top:-14px !important;
     font-size:19px;
 }
 .sm-law-caption{
-    margin-top:90px;
+    margin-top:100px;
 }
 /*coding for image holder end here*/
 .sm{

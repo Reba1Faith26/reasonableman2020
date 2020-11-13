@@ -4,3 +4,7 @@ div .social-logo-sm{
 .info-sm-wrapper{
     background-color: #213d6f !important;
 }
+nav{
+    background-color:white !important;
+    border-bottom:solid 1px white;
+}
