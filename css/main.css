@@ -1,0 +1,111 @@
+/*coding for info-section start here*/
+body{
+    background-color:#030b3a;
+}
+.card-header,.card-footer{
+    color:white !important;
+    background-color:orangered !important;
+}
+.card{
+    background-color:#030b3a;
+    border:solid 1px white;
+}
+.card-footer a{
+    color:white;
+}
+.info-section{
+    color:white;
+    height:40px;
+    background-color:#213d6f !important;
+}
+.social-logo{
+    float:right;
+    margin-right:10px;
+    line-height:40px;
+}
+/*coding for info-section ended here*/
+/*coding for computer navigation start here*/
+nav{
+    height:50px;
+    color:black !important;
+}
+.computer-li{
+    margin-right:30px;
+    margin-top:4px;
+}
+/*coding for computer navigation ended here*/
+/*coding for computer main section start here*/
+.img-holder{
+    background-color:#030b3a !important;
+    background-image:url('../images/logo.jpg');
+    background-repeat:no-repeat;
+    height:300px;
+    background-size: 200px;
+    background-position-y:center;
+    background-position-x: center;
+}
+.welcome-caption{
+    margin-top:-50px;
+}
+.law-caption{
+    margin-top:190px;
+}
+/*coding for computer main section ended here*/
+/*coding for practice section start here*/
+.col-md-4,.pc-card{
+    height:240px;
+}
+#button_one{
+    border-radius:60px;
+    margin-left:20px;
+    margin-top:20px;
+}
+/*coding for practice section ended here*/
+
+/*coding for small devices start here*/
+.social-logo-sm{
+    line-height:40px;
+}
+/*coding for small devices ended here*/
+
+/*coding for image holder */
+.img-holder-sm{
+    background-image:url('../images/logo.jpg');
+    background-repeat:no-repeat;
+    height:150px;
+    background-size:100px;
+    background-position-x:center;
+    background-position-y:center;
+    background-color:#030b3a !important;
+}
+.sm-main-caption{
+    margin-top:-25px !important;
+    font-size:19px;
+}
+.sm-law-caption{
+    margin-top:90px;
+}
+/*coding for image holder end here*/
+.sm{
+    font-size:15px;
+}
+.info-sm-wrapper{
+    background-color:#030b3a !important; 
+}
+.sm-navigation{
+    height:100%;
+    position:absolute;
+    top:75px;
+    background-color:#213d6f !important;
+    border-top:solid 2px white !important ;
+    display:none;
+    left:0;
+    right:0
+}
+.devices-li{
+    line-height:70px !important;
+}
+.devices-footer{
+    background-color:#020c42bd;
+}
+/*coding for small devices ended here*/

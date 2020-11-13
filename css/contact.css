@@ -1,0 +1,30 @@
+.sm-navigation{
+    height:100%;
+    position:absolute;
+    top:72px;
+    background-color:#213d6f !important;
+    border-top:solid 2px white !important ;
+    display:none;
+    margin-top:-35px;
+}
+.devices-li{
+    line-height:80px;
+}
+.social-logo-sm{
+    margin-top:8px !important;
+}
+.info-sm-wrapper{
+    background-color:#213d6f !important;
+}
+.contact-info{
+    height:40px !important;
+}
+div li a{
+    line-height:25px;
+}
+.computer-li a{
+    margin-left:40px !important;
+}
+.computer-li {
+    margin-top:5px;
+}
